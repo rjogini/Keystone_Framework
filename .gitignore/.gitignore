@@ -1,0 +1,6 @@
+**/.cvsigonre
+**/.dmignore
+**/*.class
+**/*.war
+**/*.ear
+**/*.jar
